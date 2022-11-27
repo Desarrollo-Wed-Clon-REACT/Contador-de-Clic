@@ -1,0 +1,40 @@
+.boton-click{
+    min-width: 50%;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+    background-color: rgba(6, 33, 82, 0.829);
+    color: white;
+    padding: 0.5em 1.5em;
+    border: none;
+    border-radius: 0.5em;
+    margin-bottom: 7px;
+}
+
+.boton-click:hover{
+    cursor: pointer;
+    background-color:  rgb(5, 41, 107);
+    border: 2px solid rgb(129, 126, 126);
+    outline: 3px solid rgb(5, 41, 107);
+
+}
+
+
+.boton-limpiar{
+    min-width: 50%;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+    background-color: rgba(110, 12, 28, 0.829);
+    color: white;
+    padding: 0.5em 1.5em;
+    border: none;
+    border-radius: 0.5em;
+    margin-bottom: 7px;
+}
+
+.boton-limpiar:hover{
+    cursor: pointer;
+    background-color:  rgb(110, 12, 28);
+    border: 2px solid rgb(129, 126, 126);
+    outline: 3px solid rgb(110, 12, 28);
+
+}
