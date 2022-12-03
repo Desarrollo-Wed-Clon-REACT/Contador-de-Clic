@@ -2,7 +2,7 @@
   "name": "pruebas-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dubervelez.github.io/Desarrollo-Wed-Clon-REACT/Contador-de-Clic",
+  "homepage": "https://desarrollo-wed-clon-react.github.io/Contador-de-Clic/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
