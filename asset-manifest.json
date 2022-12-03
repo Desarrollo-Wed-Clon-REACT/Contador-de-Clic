@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Desarrollo-Wed-Clon-REACT/Contador-de-Clic/static/css/main.77eb19b5.css",
+    "main.js": "/Desarrollo-Wed-Clon-REACT/Contador-de-Clic/static/js/main.93d0ff05.js",
+    "index.html": "/Desarrollo-Wed-Clon-REACT/Contador-de-Clic/index.html",
+    "main.77eb19b5.css.map": "/Desarrollo-Wed-Clon-REACT/Contador-de-Clic/static/css/main.77eb19b5.css.map",
+    "main.93d0ff05.js.map": "/Desarrollo-Wed-Clon-REACT/Contador-de-Clic/static/js/main.93d0ff05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77eb19b5.css",
+    "static/js/main.93d0ff05.js"
+  ]
+}
